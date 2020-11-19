@@ -17,7 +17,7 @@ The project have to main goals:
 
 ## Files in this repo
 
-Jupyter notebook: unit-5-project-final-iteration.ipynb
+Jupyter notebook: unit-5-project-final-iteration.ipynb \n
 MySQL queries: SQL-query.sql
 Tableau queries: Tableau-query.twb
 Folder 'earlier-iterations-jupyter-notebook': Archived notebooks from previous iterations
@@ -29,10 +29,10 @@ from 70 different postcodes in Washington, US, that was sold between May 2014 an
 
 Following definitions of data points was provided:
 
-**Id**: Unique identification number for the property
-**date**: date of sale
-**price**: the selling price
-**waterfront**: house with a waterfront view
+**Id**: Unique identification number for the property.
+**date**: date of sale.
+**price**: the selling price.
+**waterfront**: house with a waterfront view.
 **condition**: How good the condition is (overall). **1** indicates worn out property and **5** excellent.
 **grade**: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
 **Sqft_above**: square footage of house apart from basement.
