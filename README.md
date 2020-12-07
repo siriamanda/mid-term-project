@@ -75,6 +75,6 @@ KNN is a machine learning algorithm that can be used for both regression and cla
 
 ## Outcome
 
-The objective of the project was to create a machine learning model to predict the selling price of houses. The results from the OLS regression indicates a p-value of 0.00 which indicate that the predictor variables are statistically significant and that there is an association between changes in the indipendent variables and the response variable. However, the R2 score from the linear regression is low (0.56) which means that only 56% of the target variable 'selling price' can be explained by the model. In addition the VIF score is higher than recommended which suggests that there is some multicollinearity.
+The objective of the project was to create a machine learning model to predict the selling price of houses. However, the R2 score from the linear regression is low (0.56) which means that only 56% of the target variable 'selling price' can be explained by the model. In addition the VIF score is higher than recommended which suggests that there is some multicollinearity.
 
 In the future, further analysis and improvements of the model to achieve an R2-score of at least 0.70 would be preferred.
